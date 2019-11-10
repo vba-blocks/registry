@@ -1,0 +1,2 @@
+{"name":"test","vers":"2.0.0-beta.3","deps":[{"name":"dictionary","req":"^1"}],"cksum":"sha256-3c6cf9a59f376b0be902a53082fbf3eb393b6d4b8f8631a18d698c6f78526a5d"}
+{"name":"test","vers":"2.0.0-beta.4","deps":[{"name":"dictionary","req":"^1"}],"cksum":"sha256-4827000515579c50a646a699693b535102ce58d8580db5e0ed49eef7f1df606c"}
